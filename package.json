@@ -1,0 +1,11 @@
+{
+  "name": "gmailremidner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^1.4.0",
+    "googleapis": "^28.1.0",
+    "node-fetch": "^2.1.2"
+  }
+}
