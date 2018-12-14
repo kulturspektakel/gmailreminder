@@ -4,7 +4,7 @@ Send reminders for unanswered emails to a Slack channel.
 
 ## Setup
 
-Add
+Add these fields to `config.json`
 
 - `email` The email address the reminder is sent for
 - `webhook` Slack webhook link
